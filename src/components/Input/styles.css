@@ -1,0 +1,11 @@
+.input {
+	width: 100%;
+	border: 1px solid #ccc;
+	height: 2rem;
+	font-size: 1rem;
+	outline: none;
+}
+.input:focus {
+	-webkit-box-shadow: 0px 0px 3px 1px #3498db;
+	box-shadow: 0px 0px 3px 1px #3498db;
+}
